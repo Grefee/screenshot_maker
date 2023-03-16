@@ -6,4 +6,6 @@ Therefore the televisions are able to load just img and are not required to use 
 
 The app can be exported with pyinstaller into .exe file.
 Config.txt file is there so we can set url of the desired webpage.
-Therefore having multiple folders with multiple of these exe file with configs can result of having multiple screens to share accross company'S tvs.
+Therefore having multiple folders with multiple of these exe file with configs can result of having multiple screens to share accross company's tvs.
+
+Made by Pavel Hujer 2022.
